@@ -57,11 +57,8 @@ Here are some ideas to get you started:
 
  ## Sources which helped me
 
-<p align="left">
+
  <img src="https://lh3.googleusercontent.com/proxy/ifuFgRWuKxDK_bdxI1uN2zsuyaRcbmbacwrgzudX31nQoZTGYDPBzBvgcga9-PfMhc0c8e64akbNARkTw7k6Cz0ZdLaWaSjxeLBhdaRQtFqcjKQUUqwy6JZm4wSqZNn9xtOWpf83juDNxxS8k-R1-8XeSg=w384-h384" alt="Telegram" img align="left"  width="22px"><br />
- <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="stackoverflow" img align="left"  width="22px><br />
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="google" img align="left"  width="30px><br />
-</p>
  
  
  
