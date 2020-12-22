@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Colossalhavoc/Colossalhavoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # (づ｡◕‿‿◕｡)づ Welcome to my repo 
 
 ### What do I do:-
@@ -27,7 +11,7 @@ Here are some ideas to get you started:
 
 
 ### My GitHub stats (╥﹏╥)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colossalhavoc&show_icons=true&title_color=ff9494&icon_color=ffb2ff&text_color=99bfe6&bg_color=005266)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colossalhavoc&show_icons=true&title_color=ff9494&icon_color=ffb2ff&text_color=99bfe6&bg_color=292e49)
 
 
 
@@ -43,7 +27,8 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colossalhavoc)](https://github.com/colossalhavoc/github-readme-stats)
 
@@ -55,12 +40,14 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) 
 
+
  ## Sources which helped me
 
-
- <img src="https://lh3.googleusercontent.com/proxy/ifuFgRWuKxDK_bdxI1uN2zsuyaRcbmbacwrgzudX31nQoZTGYDPBzBvgcga9-PfMhc0c8e64akbNARkTw7k6Cz0ZdLaWaSjxeLBhdaRQtFqcjKQUUqwy6JZm4wSqZNn9xtOWpf83juDNxxS8k-R1-8XeSg=w384-h384" alt="Telegram" img align="left"  width="22px"><br />
- 
- 
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/Colossalhavoc)
+![Stackoverflow](https://img.shields.io/badge/-StackOverflow-000000?style=flat&logo=stack-overflow&logoColor=white)
+![Google](https://img.shields.io/badge/-Google-000000?style=flat&logo=google&logoColor=white)
+![Reddit](https://img.shields.io/badge/-Reddit-000000?style=flat&logo=reddit)
+![YouTube](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=youtube)
  
  
  
