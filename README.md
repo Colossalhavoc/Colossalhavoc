@@ -1,13 +1,5 @@
 # (づ｡◕‿‿◕｡)づ Welcome to my repo 
 
-### What do I do:-
-- My main focus is on Telegram bots and take ideas from other bots and implement them in my code(credits are included ofc)
-- Currently a High school student but soon an entity
-- I take my inspiration from *Anime*, *Movies*, *series*, *books* and other sources which people don't really consider to take inspiration from
-- I would love to skip a dimensions or two(maybe even more) in search of what I desire
-- My motives and ambitions might seem childish and nothing more than a pipe-dream , but I believe everything is possible
-- Hope to become a God soon....
-
 
 
 ### My GitHub stats (╥﹏╥)
